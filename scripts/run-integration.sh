@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 docker compose up -d
 echo $SHELL + "Omkar"
