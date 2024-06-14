@@ -1,5 +1,3 @@
-#!/usr/bin/sh
-
 # Print the shell being used to execute this script
 echo "Running script with shell: $(ps -p $$ -o comm=)"
 
